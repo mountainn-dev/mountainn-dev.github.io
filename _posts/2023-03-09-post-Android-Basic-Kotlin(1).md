@@ -83,5 +83,5 @@ __sp(scale independent pixels)__ 는 배율 독립형 픽셀을 의미하며, sp
 <br/>
 
 ## 3. Add a button to an app
-### 3.1 dd
+### 3.1 
 
